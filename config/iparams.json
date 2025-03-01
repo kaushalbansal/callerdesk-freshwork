@@ -1,0 +1,17 @@
+{
+    "freshdesk_api_key": {
+      "display_name": "API key",
+      "description": "4d1c2e0bac8875504b7cd8f581652d7a",
+      "type": "text",
+      "required": true,
+      "secure": true
+    },
+    "freshdesk_subdomain": {
+      "display_name": "callerdesk",
+      "description": "https://callerdesk-799213363664334061.myfreshworks.com/",
+     
+      "type": "text",
+      "required": true,
+      "secure": true
+    }
+   }
