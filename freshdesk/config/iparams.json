@@ -1,0 +1,18 @@
+{
+  "Freshworks_domain": {
+    "display_name": "Domain",
+    "description": "Please enter your Freshdesk domain URL (e.g., yourcompany.freshdesk.com)",
+    "type": "url",
+    "required": true
+  },
+  "apiKey": {
+    "display_name": "API Key",
+    "description": "Please enter your Freshdesk API Key",
+    "type": "api_key",
+    "secure": true,
+    "required": true,
+    "type_attributes": {
+      "product": "freshdesk"
+    }
+  }
+}

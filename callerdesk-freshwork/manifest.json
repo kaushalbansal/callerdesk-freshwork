@@ -1,0 +1,38 @@
+{
+  "platform-version": "2.3",
+  "product": {
+    "freshworks_crm": {
+      "location": {
+        "left_nav_cti": {
+          "url": "index.html",
+          "icon": "styles/images/callerdesk.png"
+        },
+        "deal_entity_menu": {
+          "url": "index.html",
+          "icon": "styles/images/callerdesk.png"
+        },
+        "contact_entity_menu": {
+          "url": "index.html",
+          "icon": "styles/images/callerdesk.png"
+        },
+        "sales_account_entity_menu": {
+          "url": "index.html",
+          "icon": "styles/images/callerdesk.png" 
+        }
+      },
+  "events": {
+  "onAppInstallHandler": {
+    "handler": "onAppInstallHandler"
+  }
+}
+    }
+  },
+"engines": {
+    "node": "18.20.7",  
+    "fdk": "9.3.1"
+},"permissions": [
+    "data:contacts:read",
+    "events:click"
+  ]
+
+}

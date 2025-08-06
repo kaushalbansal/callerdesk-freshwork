@@ -1,0 +1,22 @@
+{
+    "errors": [],
+    "paths": {
+        "scanned": [
+            ".report.json",
+            "README.md",
+            "app/index.html",
+            "app/scripts/app.js",
+            "app/styles/images/icon.svg",
+            "app/styles/styles.css",
+            "app/views/modal.html",
+            "config/iparams.json",
+            "digest.md5",
+            "manifest.json"
+        ],
+        "skipped": null
+    },
+    "results": [],
+    "version": "1.119.0",
+    "time": null,
+    "exit_code": 0
+}

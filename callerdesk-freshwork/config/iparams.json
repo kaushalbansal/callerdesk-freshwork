@@ -1,0 +1,18 @@
+{
+  "Freshworks_domain": {
+    "display_name": "Domain URL",
+    "description": "Please enter your domain web address",
+    "type": "url",
+    "required": true
+  },
+  "apiKey": {
+    "display_name": "API Key",
+    "description": "Please enter your Freshsales API Key",
+    "type": "api_key",
+    "secure": true,
+    "required": true,
+    "type_attributes": {
+      "product": "freshsales"
+    }
+  }
+}
